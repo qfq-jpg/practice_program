@@ -1,0 +1,8 @@
+*.exe
+*.class
+.vscode/
+x64/
+*.user
+contacts.txt
+*.vcxproj
+*.filters
